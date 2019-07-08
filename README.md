@@ -1,4 +1,4 @@
 # selenium_stepik
 
-This is test repositiry for stepik course.
-Add new line.
+This is repository for solutions in the stepik course./n
+https://stepik.org/course/575
